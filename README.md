@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<img width="2172" height="724" alt="ChatGPT Image Sep 2, 2026, 01_10_19 PM" src="https://github.com/user-attachments/assets/34b38d23-e5ed-4d28-91ba-fa0aad36a40f" />
-
+<img width="2172" height="724" alt="Talha Khan GitHub banner" src="https://github.com/user-attachments/assets/34b38d23-e5ed-4d28-91ba-fa0aad36a40f" />
 
 # 👋 Hey, I'm Talha Khan!
 
@@ -15,20 +12,20 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Civil Engineering student** with a strong interest in **Web Development, Technology, and Problem Solving**.
+I'm a **Civil Engineering student** with a strong interest in **web development, technology, and problem solving**.
 
-I enjoy learning how things work and turning what I learn into practical projects. My journey started with programming, and I'm now combining my engineering background with technology to build useful and creative solutions.
+I enjoy learning how things work and turning what I learn into practical projects. I'm building my software skills alongside engineering so I can create useful tools and solutions across both fields.
 
-- 🎓 Civil Engineering Student
-- 💻 Passionate about Web Development
-- 🌐 Building with HTML, CSS & JavaScript
-- ⚛️ Exploring React and modern web technologies
+- 🎓 Civil Engineering student
+- 💻 Learning and building with web technologies
+- 🌐 HTML, CSS & JavaScript
+- ⚛️ Working toward React and modern web development
 - 🐍 Familiar with Python
-- 📐 Skilled in AutoCAD
-- 🧠 Interested in Engineering + Technology
+- 📐 AutoCAD
+- 📏 Interested in surveying, engineering drawing, and construction
 - 🚀 Always learning, building, and improving
 
-> **"Learn it. Build it. Improve it."**
+> **Learn it. Build it. Improve it.**
 
 ---
 
@@ -37,33 +34,35 @@ I enjoy learning how things work and turning what I learn into practical project
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
 </p>
 
 ### 💻 Programming & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python, Git, GitHub and VS Code" />
 </p>
 
 ### 🏗️ Engineering
 
 - 📐 AutoCAD
-- 🏗️ Civil Engineering Fundamentals
-- 📊 Engineering Drawing
-- 📏 Surveying & Construction Concepts
+- 🏗️ Civil Engineering fundamentals
+- 📊 Engineering drawing
+- 📏 Surveying and construction concepts
 
 ---
 
 ## 🚀 What I'm Working On
 
-I'm currently focused on strengthening my **Web Development** skills and turning my knowledge into real projects.
+I'm currently focused on strengthening my **JavaScript and front-end development skills** by building real projects.
 
-### My Development Journey
+### Development Roadmap
 
-HTML → CSS → JavaScript → React → Node.js → Full Stack 🚀
+```text
+HTML → CSS → JavaScript → React → Node.js → Full Stack
+```
 
-I'm especially interested in creating websites that are:
+I enjoy building projects that are:
 
 - ✨ Clean
 - ⚡ Fast
@@ -71,40 +70,57 @@ I'm especially interested in creating websites that are:
 - 📱 Responsive
 - 🧩 Functional
 
-💡 What I Like Building
+### 💡 What I Like Building
 
-- 🌐 Websites & Web Applications
-- 🧮 JavaScript Projects
-- 🏗️ Engineering-related Projects
-- 💻 Programming Experiments
-- 🛠️ Useful Tools & Utilities
-- 🚀 Personal Projects
+- 🌐 Websites and web applications
+- 🧮 JavaScript projects
+- 🏗️ Engineering-related tools
+- 💻 Programming experiments
+- 🛠️ Useful utilities
+- 🚀 Portfolio projects
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become a strong web developer
+- ⚛️ Learn React
+- 🌐 Learn backend development
+- 🧑‍💻 Grow toward full-stack development
+- 🏗️ Combine Civil Engineering with technology
+- 📚 Contribute to open source
+- 🤝 Collaborate with developers and engineers
+- 💡 Build projects that solve real problems
+
+---
+
+## 📈 My Approach
 
 I believe the best way to learn is:
 
-Learn → Build → Break → Fix → Improve 🔁
+**Learn → Build → Break → Fix → Improve 🔁**
 
-- 🎯 My Goals
-- 🚀 Become a strong Web Developer
-- ⚛️ Master React
-- 🌐 Learn Backend Development
-- 🧑‍💻 Become a Full-Stack Developer
-- 🏗️ Combine Civil Engineering with Technology
-- 📚 Contribute to Open Source
-- 🤝 Collaborate with developers and engineers
-- 💡 Build projects that solve real problems
-- 📈 My Philosophy
+> Don't just consume technology. Build with it.
 
+Every project is an opportunity to learn something new, improve my skills, and become a better engineer and developer.
 
-Don't just consume technology. Build with it.
+---
 
-Every project is an opportunity to learn something new, improve my skills, and move one step closer to becoming a better engineer and developer.
+## 🤝 Let's Connect
 
-🤝 Let's Connect
-<p align="center"> <a href="https://github.com/CodexTalha"> <img src="https://img.shields.io/badge/GitHub-CodexTalha-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/talha-khan-2608aa384"> <img src="https://img.shields.io/badge/LinkedIn-Talha%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
 <p align="center">
-💻 Build. Learn. Solve. Repeat. 🚀
+  <a href="https://github.com/CodexTalha">
+    <img src="https://img.shields.io/badge/GitHub-CodexTalha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/talha-khan-2608aa384">
+    <img src="https://img.shields.io/badge/LinkedIn-Talha%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  💻 Build. Learn. Solve. Repeat. 🚀
+</p>
 
-</p> ```
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
